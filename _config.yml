@@ -70,7 +70,7 @@ ga_domain: kiksoft.net
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有性格的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有性格的程序员"
 sidebar-avatar: https://github.com/Jack-Liang.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -82,7 +82,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: false 
 
 # Friends
 # friends:
